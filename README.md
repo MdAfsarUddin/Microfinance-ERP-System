@@ -1,4 +1,7 @@
 # Microfinance-ERP-System
+<p align="center">
+  <img src="screenshots/01-Microfinance_deshboard.png" width="100%" />
+</p>
 Large-scale ASP.NET MVC based Microfinance ERP solution with Oracle DB, Kendo UI, HRM, Payroll, Savings, and Loan management.
 
 ---
